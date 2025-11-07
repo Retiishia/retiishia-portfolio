@@ -4,7 +4,7 @@ export const Sidebar = () => {
 			{/* GitHub */}
 			<div className="relative group font-medium">
 				<a
-					href="https://github.com/ant1po1e"
+					href="https://github.com/retiishia"
 					aria-label="GitHub"
 					target="_blank"
 					rel="noopener noreferrer"
@@ -19,7 +19,7 @@ export const Sidebar = () => {
 			{/* YouTube */}
 			<div className="relative group font-medium">
 				<a
-					href="https://www.youtube.com/@ant1po1e"
+					href="https://www.youtube.com/@retiishia"
 					aria-label="YouTube"
 					target="_blank"
 					rel="noopener noreferrer"

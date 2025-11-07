@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 export const Projects = () => {
 	useEffect(() => {
-		document.title = "Antipole | Projects";
+		document.title = "Retiishia | Projects";
 	}, []);
 
 	return (

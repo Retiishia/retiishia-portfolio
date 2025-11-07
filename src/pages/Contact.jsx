@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 export const Contact = () => {
 	useEffect(() => {
-		document.title = "Antipole | Contact";
+		document.title = "Retiishia | Contact";
 	}, []);
 
 	return (

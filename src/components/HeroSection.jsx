@@ -8,7 +8,7 @@ export const HeroSection = () => {
 			{/* Title */}
 			<div className="mx-auto text-center md:text-start">
 				<h1 className="font-bold text-white text-5xl md:text-[100px] mb-5 neon font-merienda relative inline-block cursor-pointer group">
-					Antipole
+					Retiishia
 					{/* underline */}
 					<span
 						aria-hidden="true"
@@ -23,7 +23,7 @@ export const HeroSection = () => {
 					<Typewriter
 						words={[
 							"Game Developer",
-							"Desktop Developer",
+							"IT Support",
 							"Photographer",
 							"Rhythm Gamer",
 						]}
@@ -37,8 +37,8 @@ export const HeroSection = () => {
 			{/* Description */}
 			<div className="flex flex-wrap justify-start mt-10 md:mt-20 bg-white/50 backdrop-blur-md rounded-lg shadow-lg max-w-[450px]">
 				<p className="font-normal text-black text-base mb-5 font-sans m-5">
-					Hello! I'm Antipole, a web developer and game developer. I create
-					websites and games that are not only functional but also visually
+					Hello! I'm Retiishia or you can call me Friz, a web developer and it support. I create
+					websites that are not only functional but also visually
 					appealing. My passion for coding and design drives me to constantly
 					learn and improve my skills, delivering creative and efficient
 					solutions for every project I undertake.
@@ -49,7 +49,7 @@ export const HeroSection = () => {
 			<div className="flex flex-wrap md:hidden justify-center gap-2 mt-4">
 				{/* GitHub dengan teks di kiri dalam kotak */}
 				<a
-					href="https://github.com/ant1po1e"
+					href="https://github.com/retiishia"
 					aria-label="GitHub"
 					target="_blank"
 					rel="noopener noreferrer"
@@ -65,7 +65,7 @@ export const HeroSection = () => {
 
 				{/* YouTube dengan teks di kanan dalam kotak */}
 				<a
-					href="https://www.youtube.com/@ant1po1e"
+					href="https://www.youtube.com/@retiishia"
 					aria-label="YouTube"
 					target="_blank"
 					rel="noopener noreferrer"
@@ -83,16 +83,16 @@ export const HeroSection = () => {
 			{/* Background artwork */}
 			<div className="relative w-full px-4 md:px-24">
 				<img
-					src="/amamiya.webp"
+					src="/fubuki.webp"
 					alt="" // kalau purely dekoratif, alt kosong
-					className="fixed right-0 top-1/2 -translate-y-1/2 drop-shadow-2xl translate-x-1/4 w-0 md:w-[90%] md:h-screen object-cover pointer-events-none max-w-none z-[-1]"
+					className="fixed right-0 top-1/2 -translate-y-1/2 drop-shadow-2xl translate-x-1/4 w-0 md:w-[75%] md:h-screen object-cover pointer-events-none max-w-none z-[-1]"
 					aria-hidden="true"
 				/>
 
 				{/* Artwork credit */}
 				<div className="fixed right-48 top-1/2 translate-y-1/2 flex">
 					<a
-						href="https://x.com/amairoka"
+						href="https://x.com/kuroneko_oruta"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="relative hidden md:inline-flex items-center p-3 text-sm font-medium text-center text-white bg-blue-400 rounded-md shadow-lg md:hover:scale-110 md:hover:bg-blue-600 focus:ring-4 focus:outline-none focus:ring-blue-300 transition-all duration-300 group">

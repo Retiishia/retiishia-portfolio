@@ -111,7 +111,7 @@ export const ArticleSection = () => {
 				<div className="w-full px-4">
 					<div className="mx-auto text-center">
 						<h1 className="font-bold text-black text-xl md:text-3xl">
-							Mapping
+							Mapping Osu Mania
 						</h1>
 					</div>
 				</div>

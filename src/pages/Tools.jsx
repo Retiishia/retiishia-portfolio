@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 export const Tools = () => {
 	useEffect(() => {
-		document.title = "Antipole | Tools";
+		document.title = "Retiishia | Tools";
 	}, []);
 
 	return (

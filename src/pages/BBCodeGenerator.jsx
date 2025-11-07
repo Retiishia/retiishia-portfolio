@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 export const BBCodeGenerator = () => {
 	useEffect(() => {
-		document.title = "Antipole | Tools - BBCode Generator";
+		document.title = "Retiishia | Tools - BBCode Generator";
 	}, []);
 
 	return (

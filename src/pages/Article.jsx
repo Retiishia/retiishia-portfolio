@@ -4,7 +4,7 @@ import { ArticleSection } from "./../components/ArticleSection";
 
 export const Article = () => {
 	useEffect(() => {
-		document.title = "Antipole | How to Map";
+		document.title = "Retiishia | How to Map";
 	}, []);
 
 	return (

@@ -4,7 +4,7 @@ import { SnapCalcSection } from "./../components/SnapCalcSection";
 
 export const SnapCalculator = () => {
 	useEffect(() => {
-		document.title = "Antipole | Tools - Snap Calculator ";
+		document.title = "Retiishia | Tools - Snap Calculator ";
 	}, []);
 
 	return (

@@ -4,7 +4,7 @@ import { OsuBeatmapFeed } from "../components/OsuBeatmapFeed";
 
 export const Beatmaps = () => {
 	useEffect(() => {
-		document.title = "Antipole | Contributed Beatmaps";
+		document.title = "Retiishia | Contributed Music";
 	}, []);
 
 	return (

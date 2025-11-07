@@ -67,7 +67,7 @@ export const ContactSection = () => {
 				<div className="text-center mt-5 w-full px-4 py-4 border-t-2 border-t-black text-white">
 					<form
 						ref={formRef}
-						name="Ant1po1e-contact-form"
+						name="Retiishia-contact-form"
 						onSubmit={handleSubmit}
 						className="space-y-4 max-w-md mx-auto"
 						aria-describedby="contact-description">

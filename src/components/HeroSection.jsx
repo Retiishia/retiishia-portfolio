@@ -22,7 +22,7 @@ export const HeroSection = () => {
 				<div className="font-mono font-bold" aria-label="Roles I do">
 					<Typewriter
 						words={[
-							"Game Developer",
+							"Web Developer",
 							"IT Support",
 							"Photographer",
 							"Rhythm Gamer",

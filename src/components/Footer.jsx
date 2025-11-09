@@ -11,7 +11,7 @@ export const Footer = () => {
 	const links = [
 		{ to: "/", label: "HOME" },
 		{ to: "/projects", label: "PROJECTS" },
-		{ to: "/contributed-beatmaps", label: "BEATMAPS" },
+		// { to: "/contributed-beatmaps", label: "BEATMAPS" }, // belum tau fungsi dan penggunaan nya gimana, dan gak kepake juga untuk saat ini.
 		{ to: "/how-to-map", label: "HOW TO MAP" },
 		{ to: "/tools", label: "TOOLS" },
 		{ to: "/contact", label: "CONTACT" },
@@ -20,7 +20,7 @@ export const Footer = () => {
 	const iMap = {
 		HOME: <i className="bi bi-house-door-fill" aria-hidden="true" />,
 		PROJECTS: <i className="bi bi-kanban-fill" aria-hidden="true" />,
-		BEATMAPS: <i className="bi bi-music-note-list" aria-hidden="true" />,
+		// BEATMAPS: <i className="bi bi-music-note-list" aria-hidden="true" />, // belum tau fungsi dan penggunaan nya gimana, dan gak kepake juga untuk saat ini.
 		TOOLS: <i className="bi bi-tools" aria-hidden="true" />,
 		CONTACT: <i className="bi bi-envelope-fill" aria-hidden="true" />,
 		"HOW TO MAP": <i class="bi bi-map-fill"></i>,
@@ -61,16 +61,6 @@ export const Footer = () => {
 								</Link>
 							</li>
 						))}
-						<li className="w-full">
-							<a
-								href="https://ant1po1e.itch.io"
-								target="_blank"
-								rel="noopener noreferrer"
-								className="block w-full py-2 text-center text-base font-medium md:hover:bg-black/10 transition"
-								aria-label="Visit ITCH.IO (opens in a new tab)">
-								ITCH.IO
-							</a>
-						</li>
 					</ul>
 				</div>
 			</div>

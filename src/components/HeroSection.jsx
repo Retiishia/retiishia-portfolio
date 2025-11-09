@@ -84,7 +84,7 @@ export const HeroSection = () => {
 			<div className="relative w-full px-4 md:px-24">
 				<img
 					src="/fubuki.webp"
-					alt="" // kalau purely dekoratif, alt kosong
+					alt="fubuki" // kalau purely dekoratif, alt kosong
 					className="fixed right-0 top-1/2 -translate-y-1/2 drop-shadow-2xl translate-x-1/4 w-0 md:w-[75%] md:h-screen object-cover pointer-events-none max-w-none z-[-1]"
 					aria-hidden="true"
 				/>

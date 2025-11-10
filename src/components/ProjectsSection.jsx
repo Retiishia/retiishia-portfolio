@@ -36,6 +36,24 @@ const projects = [
 		stack: "next,react,tailwind",
 		icon: "bi bi-github",
 		linkText: "Link",
+	},
+	{
+		title:"CatApp Mobile Application",
+		image: "/projects/catapp-mobile.webp",
+		alt: "CatApp Mobile Application",
+		link: "https://github.com/Retiishia/CatApp-Kotlin",
+		stack: "kotlin,gradle,figma,css,bootstrap",
+		icon: "bi bi-github",
+		linkText: "Link",
+	},
+	{
+		title: "SPK Recommendation System for Cempor",
+		image: "/projects/cempor-site.webp",
+		alt: "SPK Recommendation System for Cempor",
+		link: "https://github.com/Retiishia/spk-rekomendasi-cempor",
+		stack: "laravel,php,mysql,css,bootstrap",
+		icon: "bi bi-github",
+		linkText: "Link",
 	}
 ];
 

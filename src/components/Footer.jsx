@@ -23,7 +23,7 @@ export const Footer = () => {
 		// BEATMAPS: <i className="bi bi-music-note-list" aria-hidden="true" />, // belum tau fungsi dan penggunaan nya gimana, dan gak kepake juga untuk saat ini.
 		TOOLS: <i className="bi bi-tools" aria-hidden="true" />,
 		CONTACT: <i className="bi bi-envelope-fill" aria-hidden="true" />,
-		"HOW TO MAP": <i class="bi bi-map-fill"></i>,
+		"HOW TO MAP": <i className="bi bi-map-fill" aria-hidden="true" />,
 	};
 
 	return (

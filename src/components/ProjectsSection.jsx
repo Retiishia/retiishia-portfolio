@@ -54,6 +54,15 @@ const projects = [
 		stack: "laravel,php,mysql,css,bootstrap",
 		icon: "bi bi-github",
 		linkText: "Link",
+	},
+	{
+		title: "Todo List Web Application",
+		image: "/projects/todolist.webp",
+		alt: "Todo List Web Application",
+		link: "https://github.com/Retiishia/todo-list-webapp",
+		stack: "html,css,javascript",
+		icon: "bi bi-github",
+		linkText: "Link",
 	}
 ];
 
